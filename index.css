@@ -1,0 +1,42 @@
+html{ 
+    background-color: rgb(146, 188, 188);
+
+} 
+
+#increment-btn { 
+    background-color: rgb(13, 125, 125);
+    position: absolute;
+    left: 640px;
+
+} 
+
+#save-btn {  
+
+background-color: rgb(13, 125, 125);
+    position: absolute;
+    left: 740px;
+
+
+}   
+
+
+#count-el{  
+     position: relative;
+        left: 700px;
+    
+    
+    }   
+
+#save-el {
+ 
+    position: relative;
+        left: 600px;
+        top: 60px;
+
+}
+
+#Text{  
+    position: relative;
+    left: 600px;
+
+}
